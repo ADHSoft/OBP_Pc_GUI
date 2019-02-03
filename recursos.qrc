@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Imagenes">
+        <file>MáquinaBraille.jpg</file>
+    </qresource>
+</RCC>

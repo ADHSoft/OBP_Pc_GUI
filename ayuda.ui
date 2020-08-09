@@ -126,8 +126,8 @@
       <bool>true</bool>
      </property>
      <property name="plainText">
-      <string>(C) 2017 Alejandro Herme. Colaboracion GUI: Gustavo Pérez. Todos los derechos reservados
-adhsoft@gmail.com</string>
+      <string>(C) 2017 adhsoft0@gmail.com. Todos los derechos reservados
+      </string>
      </property>
     </widget>
    </item>

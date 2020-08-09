@@ -1,4 +1,4 @@
-//Open Braille Printer (C) 2017 Alejandro Herme. Todos los derechos reservados. adhsoft0@gmail.com
+//Open Braille Printer (C) 2017 adhsoft0@gmail.com Todos los derechos reservados. 
 
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
